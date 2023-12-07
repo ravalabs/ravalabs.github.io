@@ -37,7 +37,7 @@
           "value": "zero"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2011"
         }
       ]
@@ -81,7 +81,7 @@
           "value": "none"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2017"
         }
       ]
@@ -125,7 +125,7 @@
           "value": "question"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2015"
         }
       ]
@@ -169,7 +169,7 @@
           "value": "none"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2013"
         }
       ]
@@ -213,7 +213,7 @@
           "value": "none"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2022"
         }
       ]
@@ -257,7 +257,7 @@
           "value": "one"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2020"
         }
       ]
@@ -301,7 +301,7 @@
           "value": "one"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2010"
         }
       ]
@@ -345,7 +345,7 @@
           "value": "none"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2015"
         }
       ]
@@ -389,7 +389,7 @@
           "value": "cross necklase"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2014"
         }
       ]
@@ -433,7 +433,7 @@
           "value": "cross necklase"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2013"
         }
       ]
@@ -477,7 +477,7 @@
           "value": "zero"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2013"
         }
       ]
@@ -521,7 +521,7 @@
           "value": "one"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2023"
         }
       ]
@@ -565,7 +565,7 @@
           "value": "check"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2012"
         }
       ]
@@ -609,7 +609,7 @@
           "value": "one"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2012"
         }
       ]
@@ -653,7 +653,7 @@
           "value": "question"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2013"
         }
       ]
@@ -697,7 +697,7 @@
           "value": "one"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2020"
         }
       ]
@@ -741,7 +741,7 @@
           "value": "check"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2017"
         }
       ]
@@ -785,7 +785,7 @@
           "value": "zero"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2011"
         }
       ]
@@ -829,7 +829,7 @@
           "value": "white btc"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2011"
         }
       ]
@@ -873,7 +873,7 @@
           "value": "zero"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2009"
         }
       ]
@@ -917,7 +917,7 @@
           "value": "check"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2016"
         }
       ]
@@ -961,7 +961,7 @@
           "value": "orange btc"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2012"
         }
       ]
@@ -1005,7 +1005,7 @@
           "value": "zero"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2018"
         }
       ]
@@ -1049,7 +1049,7 @@
           "value": "zero"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2018"
         }
       ]
@@ -1093,7 +1093,7 @@
           "value": "zero"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2017"
         }
       ]
@@ -1137,7 +1137,7 @@
           "value": "cross necklase"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2022"
         }
       ]
@@ -1181,7 +1181,7 @@
           "value": "cross necklase"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2022"
         }
       ]
@@ -1225,7 +1225,7 @@
           "value": "orange btc"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2010"
         }
       ]
@@ -1269,7 +1269,7 @@
           "value": "white btc"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2012"
         }
       ]
@@ -1313,7 +1313,7 @@
           "value": "zero"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2012"
         }
       ]
@@ -1357,7 +1357,7 @@
           "value": "zero"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2022"
         }
       ]
@@ -1401,7 +1401,7 @@
           "value": "none"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2010"
         }
       ]
@@ -1445,7 +1445,7 @@
           "value": "check"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2011"
         }
       ]
@@ -1489,7 +1489,7 @@
           "value": "cross necklase"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2012"
         }
       ]
@@ -1533,7 +1533,7 @@
           "value": "white btc"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2018"
         }
       ]
@@ -1577,7 +1577,7 @@
           "value": "none"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2010"
         }
       ]
@@ -1621,7 +1621,7 @@
           "value": "one"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2016"
         }
       ]
@@ -1665,7 +1665,7 @@
           "value": "cross necklase"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2015"
         }
       ]
@@ -1709,7 +1709,7 @@
           "value": "orange btc"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2019"
         }
       ]
@@ -1753,7 +1753,7 @@
           "value": "zero"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2020"
         }
       ]
@@ -1797,7 +1797,7 @@
           "value": "white btc"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2013"
         }
       ]
@@ -1841,7 +1841,7 @@
           "value": "white btc"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2020"
         }
       ]
@@ -1885,7 +1885,7 @@
           "value": "none"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2011"
         }
       ]
@@ -1929,7 +1929,7 @@
           "value": "question"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2011"
         }
       ]
@@ -1973,7 +1973,7 @@
           "value": "question"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2015"
         }
       ]
@@ -2017,7 +2017,7 @@
           "value": "zero"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2015"
         }
       ]
@@ -2061,7 +2061,7 @@
           "value": "one"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2020"
         }
       ]
@@ -2105,7 +2105,7 @@
           "value": "one"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2022"
         }
       ]
@@ -2149,7 +2149,7 @@
           "value": "none"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2011"
         }
       ]
@@ -2193,7 +2193,7 @@
           "value": "question"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2017"
         }
       ]
@@ -2237,7 +2237,7 @@
           "value": "white btc"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2023"
         }
       ]
@@ -2281,7 +2281,7 @@
           "value": "orange btc"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2013"
         }
       ]
@@ -2325,7 +2325,7 @@
           "value": "question"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2015"
         }
       ]
@@ -2369,7 +2369,7 @@
           "value": "check"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2012"
         }
       ]
@@ -2413,7 +2413,7 @@
           "value": "check"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2011"
         }
       ]
@@ -2457,7 +2457,7 @@
           "value": "white btc"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2018"
         }
       ]
@@ -2501,7 +2501,7 @@
           "value": "check"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2010"
         }
       ]
@@ -2545,7 +2545,7 @@
           "value": "zero"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2012"
         }
       ]
@@ -2589,7 +2589,7 @@
           "value": "check"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2016"
         }
       ]
@@ -2633,7 +2633,7 @@
           "value": "cross necklase"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2019"
         }
       ]
@@ -2677,7 +2677,7 @@
           "value": "white btc"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2019"
         }
       ]
@@ -2721,7 +2721,7 @@
           "value": "white btc"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2013"
         }
       ]
@@ -2765,7 +2765,7 @@
           "value": "none"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2020"
         }
       ]
@@ -2809,7 +2809,7 @@
           "value": "question"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2023"
         }
       ]
@@ -2853,7 +2853,7 @@
           "value": "question"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2023"
         }
       ]
@@ -2897,7 +2897,7 @@
           "value": "check"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2017"
         }
       ]
@@ -2941,7 +2941,7 @@
           "value": "none"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2022"
         }
       ]
@@ -2985,7 +2985,7 @@
           "value": "cross necklase"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2012"
         }
       ]
@@ -3029,7 +3029,7 @@
           "value": "none"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2011"
         }
       ]
@@ -3073,7 +3073,7 @@
           "value": "none"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2015"
         }
       ]
@@ -3117,7 +3117,7 @@
           "value": "check"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2013"
         }
       ]
@@ -3161,7 +3161,7 @@
           "value": "cross necklase"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2019"
         }
       ]
@@ -3205,7 +3205,7 @@
           "value": "none"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2013"
         }
       ]
@@ -3249,7 +3249,7 @@
           "value": "question"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2016"
         }
       ]
@@ -3293,7 +3293,7 @@
           "value": "question"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2014"
         }
       ]
@@ -3337,7 +3337,7 @@
           "value": "one"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2014"
         }
       ]
@@ -3381,7 +3381,7 @@
           "value": "none"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2013"
         }
       ]
@@ -3425,7 +3425,7 @@
           "value": "zero"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2013"
         }
       ]
@@ -3469,7 +3469,7 @@
           "value": "zero"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2013"
         }
       ]
@@ -3513,7 +3513,7 @@
           "value": "one"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2022"
         }
       ]
@@ -3557,7 +3557,7 @@
           "value": "check"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2022"
         }
       ]
@@ -3601,7 +3601,7 @@
           "value": "orange btc"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2022"
         }
       ]
@@ -3645,7 +3645,7 @@
           "value": "one"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2022"
         }
       ]
@@ -3689,7 +3689,7 @@
           "value": "none"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2022"
         }
       ]
@@ -3733,7 +3733,7 @@
           "value": "white btc"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2012"
         }
       ]
@@ -3777,7 +3777,7 @@
           "value": "white btc"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2013"
         }
       ]
@@ -3821,7 +3821,7 @@
           "value": "orange btc"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2012"
         }
       ]
@@ -3865,7 +3865,7 @@
           "value": "check"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2022"
         }
       ]
@@ -3909,7 +3909,7 @@
           "value": "check"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2022"
         }
       ]
@@ -3953,7 +3953,7 @@
           "value": "cross necklase"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2022"
         }
       ]
@@ -3997,7 +3997,7 @@
           "value": "white btc"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2022"
         }
       ]
@@ -4041,7 +4041,7 @@
           "value": "cross necklase"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2022"
         }
       ]
@@ -4085,7 +4085,7 @@
           "value": "check"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2020"
         }
       ]
@@ -4129,7 +4129,7 @@
           "value": "one"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2015"
         }
       ]
@@ -4173,7 +4173,7 @@
           "value": "none"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2017"
         }
       ]
@@ -4217,7 +4217,7 @@
           "value": "white btc"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2015"
         }
       ]
@@ -4261,7 +4261,7 @@
           "value": "question"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2012"
         }
       ]
@@ -4305,7 +4305,7 @@
           "value": "question"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2011"
         }
       ]
@@ -4349,7 +4349,7 @@
           "value": "none"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2017"
         }
       ]
@@ -4393,7 +4393,7 @@
           "value": "none"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2019"
         }
       ]
@@ -4437,7 +4437,7 @@
           "value": "check"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2017"
         }
       ]
@@ -4481,7 +4481,7 @@
           "value": "none"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2015"
         }
       ]
@@ -4525,7 +4525,7 @@
           "value": "zero"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2022"
         }
       ]
@@ -4569,7 +4569,7 @@
           "value": "orange btc"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2023"
         }
       ]
@@ -4613,7 +4613,7 @@
           "value": "cross necklase"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2012"
         }
       ]
@@ -4657,7 +4657,7 @@
           "value": "white btc"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2015"
         }
       ]
@@ -4701,7 +4701,7 @@
           "value": "cross necklase"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2015"
         }
       ]
@@ -4745,7 +4745,7 @@
           "value": "one"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2011"
         }
       ]
@@ -4789,7 +4789,7 @@
           "value": "one"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2013"
         }
       ]
@@ -4833,7 +4833,7 @@
           "value": "check"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2013"
         }
       ]
@@ -4877,7 +4877,7 @@
           "value": "none"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2022"
         }
       ]
@@ -4921,7 +4921,7 @@
           "value": "cross necklase"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2022"
         }
       ]
@@ -4965,7 +4965,7 @@
           "value": "check"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2018"
         }
       ]
@@ -5009,7 +5009,7 @@
           "value": "one"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2015"
         }
       ]
@@ -5053,7 +5053,7 @@
           "value": "zero"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2014"
         }
       ]
@@ -5097,7 +5097,7 @@
           "value": "none"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2015"
         }
       ]
@@ -5141,7 +5141,7 @@
           "value": "none"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2015"
         }
       ]
@@ -5185,7 +5185,7 @@
           "value": "check"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2015"
         }
       ]
@@ -5229,7 +5229,7 @@
           "value": "question"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2022"
         }
       ]
@@ -5273,7 +5273,7 @@
           "value": "one"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2016"
         }
       ]
@@ -5317,7 +5317,7 @@
           "value": "none"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2022"
         }
       ]
@@ -5361,7 +5361,7 @@
           "value": "zero"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2015"
         }
       ]
@@ -5405,7 +5405,7 @@
           "value": "white btc"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2010"
         }
       ]
@@ -5449,7 +5449,7 @@
           "value": "white btc"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2012"
         }
       ]
@@ -5493,7 +5493,7 @@
           "value": "zero"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2015"
         }
       ]
@@ -5537,7 +5537,7 @@
           "value": "question"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2018"
         }
       ]
@@ -5581,7 +5581,7 @@
           "value": "check"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2015"
         }
       ]
@@ -5625,7 +5625,7 @@
           "value": "check"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2022"
         }
       ]
@@ -5669,7 +5669,7 @@
           "value": "question"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2022"
         }
       ]
@@ -5713,7 +5713,7 @@
           "value": "check"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2022"
         }
       ]
@@ -5757,7 +5757,7 @@
           "value": "zero"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2022"
         }
       ]
@@ -5801,7 +5801,7 @@
           "value": "zero"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2023"
         }
       ]
@@ -5845,7 +5845,7 @@
           "value": "zero"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2023"
         }
       ]
@@ -5889,7 +5889,7 @@
           "value": "cross necklase"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2015"
         }
       ]
@@ -5933,7 +5933,7 @@
           "value": "one"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2015"
         }
       ]
@@ -5977,7 +5977,7 @@
           "value": "none"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2022"
         }
       ]
@@ -6021,7 +6021,7 @@
           "value": "cross necklase"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2011"
         }
       ]
@@ -6065,7 +6065,7 @@
           "value": "none"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2022"
         }
       ]
@@ -6109,7 +6109,7 @@
           "value": "question"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2015"
         }
       ]
@@ -6153,7 +6153,7 @@
           "value": "check"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2014"
         }
       ]
@@ -6197,7 +6197,7 @@
           "value": "white btc"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2010"
         }
       ]
@@ -6241,7 +6241,7 @@
           "value": "zero"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2015"
         }
       ]
@@ -6285,7 +6285,7 @@
           "value": "none"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2019"
         }
       ]
@@ -6329,7 +6329,7 @@
           "value": "white btc"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2023"
         }
       ]
@@ -6373,7 +6373,7 @@
           "value": "white btc"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2022"
         }
       ]
@@ -6417,7 +6417,7 @@
           "value": "white btc"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2010"
         }
       ]
@@ -6461,7 +6461,7 @@
           "value": "cross necklase"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2015"
         }
       ]
@@ -6505,7 +6505,7 @@
           "value": "one"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2020"
         }
       ]
@@ -6549,7 +6549,7 @@
           "value": "none"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2013"
         }
       ]
@@ -6593,7 +6593,7 @@
           "value": "none"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2010"
         }
       ]
@@ -6637,7 +6637,7 @@
           "value": "cross necklase"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2013"
         }
       ]
@@ -6681,7 +6681,7 @@
           "value": "zero"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2014"
         }
       ]
@@ -6725,7 +6725,7 @@
           "value": "white btc"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2014"
         }
       ]
@@ -6769,7 +6769,7 @@
           "value": "zero"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2011"
         }
       ]
@@ -6813,7 +6813,7 @@
           "value": "orange btc"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2014"
         }
       ]
@@ -6857,7 +6857,7 @@
           "value": "question"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2015"
         }
       ]
@@ -6901,7 +6901,7 @@
           "value": "question"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2015"
         }
       ]
@@ -6945,7 +6945,7 @@
           "value": "one"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2015"
         }
       ]
@@ -6989,7 +6989,7 @@
           "value": "cross necklase"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2013"
         }
       ]
@@ -7033,7 +7033,7 @@
           "value": "check"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2015"
         }
       ]
@@ -7077,7 +7077,7 @@
           "value": "one"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2014"
         }
       ]
@@ -7121,7 +7121,7 @@
           "value": "one"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2022"
         }
       ]
@@ -7165,7 +7165,7 @@
           "value": "one"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2013"
         }
       ]
@@ -7209,7 +7209,7 @@
           "value": "none"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2015"
         }
       ]
@@ -7253,7 +7253,7 @@
           "value": "zero"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2013"
         }
       ]
@@ -7297,7 +7297,7 @@
           "value": "cross necklase"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2010"
         }
       ]
@@ -7341,7 +7341,7 @@
           "value": "cross necklase"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2011"
         }
       ]
@@ -7385,7 +7385,7 @@
           "value": "zero"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2023"
         }
       ]
@@ -7429,7 +7429,7 @@
           "value": "question"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2011"
         }
       ]
@@ -7473,7 +7473,7 @@
           "value": "orange btc"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2010"
         }
       ]
@@ -7517,7 +7517,7 @@
           "value": "none"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2010"
         }
       ]
@@ -7561,7 +7561,7 @@
           "value": "none"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2018"
         }
       ]
@@ -7605,7 +7605,7 @@
           "value": "zero"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2013"
         }
       ]
@@ -7649,7 +7649,7 @@
           "value": "orange btc"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2023"
         }
       ]
@@ -7693,7 +7693,7 @@
           "value": "zero"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2023"
         }
       ]
@@ -7737,7 +7737,7 @@
           "value": "orange btc"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2019"
         }
       ]
@@ -7781,7 +7781,7 @@
           "value": "question"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2013"
         }
       ]
@@ -7825,7 +7825,7 @@
           "value": "none"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2023"
         }
       ]
@@ -7869,7 +7869,7 @@
           "value": "orange btc"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2013"
         }
       ]
@@ -7913,7 +7913,7 @@
           "value": "check"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2023"
         }
       ]
@@ -7957,7 +7957,7 @@
           "value": "white btc"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2012"
         }
       ]
@@ -8001,7 +8001,7 @@
           "value": "meat"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2012"
         }
       ]
@@ -8045,7 +8045,7 @@
           "value": "white btc"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2012"
         }
       ]
@@ -8089,7 +8089,7 @@
           "value": "check"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2012"
         }
       ]
@@ -8133,7 +8133,7 @@
           "value": "cross necklase"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2015"
         }
       ]
@@ -8177,7 +8177,7 @@
           "value": "orange btc"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2010"
         }
       ]
@@ -8221,7 +8221,7 @@
           "value": "white btc"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2019"
         }
       ]
@@ -8265,7 +8265,7 @@
           "value": "question"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2023"
         }
       ]
@@ -8309,7 +8309,7 @@
           "value": "orange btc"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2012"
         }
       ]
@@ -8353,7 +8353,7 @@
           "value": ""
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2013"
         }
       ]
@@ -8397,7 +8397,7 @@
           "value": "zero"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2013"
         }
       ]
@@ -8441,7 +8441,7 @@
           "value": "zero"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2022"
         }
       ]
@@ -8485,7 +8485,7 @@
           "value": "one"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2011"
         }
       ]
@@ -8529,7 +8529,7 @@
           "value": "cross necklase"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2009"
         }
       ]
@@ -8573,7 +8573,7 @@
           "value": "check"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2015"
         }
       ]
@@ -8617,7 +8617,7 @@
           "value": "none"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2015"
         }
       ]
@@ -8661,7 +8661,7 @@
           "value": "question"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2015"
         }
       ]
@@ -8705,7 +8705,7 @@
           "value": "none"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2023"
         }
       ]
@@ -8749,7 +8749,7 @@
           "value": "orange btc"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2015"
         }
       ]
@@ -8793,7 +8793,7 @@
           "value": "orange btc"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2017"
         }
       ]
@@ -8837,7 +8837,7 @@
           "value": "check"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2014"
         }
       ]
@@ -8881,7 +8881,7 @@
           "value": "Who is Satoshi Nakamoto"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2014"
         }
       ]
@@ -8925,7 +8925,7 @@
           "value": "t"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2023"
         }
       ]
@@ -8969,7 +8969,7 @@
           "value": "question"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2013"
         }
       ]
@@ -9013,7 +9013,7 @@
           "value": "one"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2013"
         }
       ]
@@ -9057,7 +9057,7 @@
           "value": "check"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2011"
         }
       ]
@@ -9101,7 +9101,7 @@
           "value": "orange btc"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2013"
         }
       ]
@@ -9145,7 +9145,7 @@
           "value": "cross necklase"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2011"
         }
       ]
@@ -9189,7 +9189,7 @@
           "value": "question"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2015"
         }
       ]
@@ -9233,7 +9233,7 @@
           "value": "none"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2018"
         }
       ]
@@ -9277,7 +9277,7 @@
           "value": "orange btc"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2013"
         }
       ]
@@ -9321,7 +9321,7 @@
           "value": "none"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2009"
         }
       ]
@@ -9365,7 +9365,7 @@
           "value": "white btc"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2012"
         }
       ]
@@ -9409,7 +9409,7 @@
           "value": "white btc"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2012"
         }
       ]
@@ -9453,7 +9453,7 @@
           "value": "one"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2009"
         }
       ]
@@ -9497,7 +9497,7 @@
           "value": "orange btc"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2013"
         }
       ]
@@ -9541,7 +9541,7 @@
           "value": "white btc"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2015"
         }
       ]
@@ -9585,7 +9585,7 @@
           "value": "cross necklase"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2012"
         }
       ]
@@ -9629,7 +9629,7 @@
           "value": "cross necklase"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2011"
         }
       ]
@@ -9673,7 +9673,7 @@
           "value": "white btc"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2010"
         }
       ]
@@ -9717,7 +9717,7 @@
           "value": "zero"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2013"
         }
       ]
@@ -9761,7 +9761,7 @@
           "value": "check"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2012"
         }
       ]
@@ -9805,7 +9805,7 @@
           "value": "cross necklase"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2010"
         }
       ]
@@ -9849,7 +9849,7 @@
           "value": "meat"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2022"
         }
       ]
@@ -9893,7 +9893,7 @@
           "value": "orange btc"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2014"
         }
       ]
@@ -9937,7 +9937,7 @@
           "value": "check"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2012"
         }
       ]
@@ -9981,7 +9981,7 @@
           "value": "none"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2020"
         }
       ]
@@ -10025,7 +10025,7 @@
           "value": "cross necklase"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2012"
         }
       ]
@@ -10069,7 +10069,7 @@
           "value": "check"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2023"
         }
       ]
@@ -10113,7 +10113,7 @@
           "value": "cross necklase"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2018"
         }
       ]
@@ -10157,7 +10157,7 @@
           "value": "none"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2012"
         }
       ]
@@ -10201,7 +10201,7 @@
           "value": "none"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2012"
         }
       ]
@@ -10245,7 +10245,7 @@
           "value": "t"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2023"
         }
       ]
@@ -10289,7 +10289,7 @@
           "value": "t"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2012"
         }
       ]
@@ -10333,7 +10333,7 @@
           "value": "taru"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2021"
         }
       ]
@@ -10377,7 +10377,7 @@
           "value": "one"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2009"
         }
       ]
@@ -10421,7 +10421,7 @@
           "value": "question"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2019"
         }
       ]
@@ -10465,7 +10465,7 @@
           "value": "none"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2011"
         }
       ]
@@ -10509,7 +10509,7 @@
           "value": "white btc"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2010"
         }
       ]
@@ -10553,7 +10553,7 @@
           "value": "question"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2010"
         }
       ]
@@ -10597,7 +10597,7 @@
           "value": "none"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2009"
         }
       ]
@@ -10641,7 +10641,7 @@
           "value": "taruguitos"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2014"
         }
       ]
@@ -10685,7 +10685,7 @@
           "value": "none"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2023"
         }
       ]
@@ -10729,7 +10729,7 @@
           "value": "white btc"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2011"
         }
       ]
@@ -10773,7 +10773,7 @@
           "value": "check"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2011"
         }
       ]
@@ -10817,7 +10817,7 @@
           "value": "none"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2019"
         }
       ]
@@ -10861,7 +10861,7 @@
           "value": "none"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2012"
         }
       ]
@@ -10905,7 +10905,7 @@
           "value": "one"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2012"
         }
       ]
@@ -10949,7 +10949,7 @@
           "value": "check"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2023"
         }
       ]
@@ -10993,7 +10993,7 @@
           "value": "one"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2023"
         }
       ]
@@ -11037,7 +11037,7 @@
           "value": "question"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2023"
         }
       ]
@@ -11081,7 +11081,7 @@
           "value": "cross necklase"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2023"
         }
       ]
@@ -11125,7 +11125,7 @@
           "value": "none"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2023"
         }
       ]
@@ -11169,7 +11169,7 @@
           "value": "one"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2023"
         }
       ]
@@ -11213,7 +11213,7 @@
           "value": "check"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2023"
         }
       ]
@@ -11257,7 +11257,7 @@
           "value": "cross necklase"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2013"
         }
       ]
@@ -11301,7 +11301,7 @@
           "value": "one"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2013"
         }
       ]
@@ -11345,7 +11345,7 @@
           "value": "check"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2020"
         }
       ]
@@ -11389,7 +11389,7 @@
           "value": "white btc"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2016"
         }
       ]
@@ -11433,7 +11433,7 @@
           "value": "question"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2023"
         }
       ]
@@ -11477,7 +11477,7 @@
           "value": "cross necklase"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2023"
         }
       ]
@@ -11521,7 +11521,7 @@
           "value": "white btc"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2023"
         }
       ]
@@ -11565,7 +11565,7 @@
           "value": "check"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2023"
         }
       ]
@@ -11609,7 +11609,7 @@
           "value": "none"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2023"
         }
       ]
@@ -11653,7 +11653,7 @@
           "value": "question"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2023"
         }
       ]
@@ -11697,7 +11697,7 @@
           "value": "white btc"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2023"
         }
       ]
@@ -11741,7 +11741,7 @@
           "value": "zero"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2013"
         }
       ]
@@ -11785,7 +11785,7 @@
           "value": "none"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2019"
         }
       ]
@@ -11829,7 +11829,7 @@
           "value": "none"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2023"
         }
       ]
@@ -11873,7 +11873,7 @@
           "value": "one"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2013"
         }
       ]
@@ -11917,7 +11917,7 @@
           "value": "cross necklase"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2013"
         }
       ]
@@ -11961,7 +11961,7 @@
           "value": "zero"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2013"
         }
       ]
@@ -12005,7 +12005,7 @@
           "value": "one"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2013"
         }
       ]
@@ -12049,7 +12049,7 @@
           "value": "one"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2013"
         }
       ]
@@ -12093,7 +12093,7 @@
           "value": "check"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2013"
         }
       ]
@@ -12137,7 +12137,7 @@
           "value": "white btc"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2013"
         }
       ]
@@ -12181,7 +12181,7 @@
           "value": "one"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2013"
         }
       ]
@@ -12225,7 +12225,7 @@
           "value": "none"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2012"
         }
       ]
@@ -12269,7 +12269,7 @@
           "value": "spider"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2009"
         }
       ]
@@ -12313,7 +12313,7 @@
           "value": "orange btc"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2019"
         }
       ]
@@ -12357,7 +12357,7 @@
           "value": "orange btc"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2019"
         }
       ]
@@ -12401,7 +12401,7 @@
           "value": "white btc"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2019"
         }
       ]
@@ -12445,7 +12445,7 @@
           "value": "none"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2019"
         }
       ]
@@ -12489,7 +12489,7 @@
           "value": "orange btc"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2019"
         }
       ]
@@ -12533,7 +12533,7 @@
           "value": "zero"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2019"
         }
       ]
@@ -12577,7 +12577,7 @@
           "value": "check"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2019"
         }
       ]
@@ -12621,7 +12621,7 @@
           "value": "none"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2019"
         }
       ]
@@ -12665,7 +12665,7 @@
           "value": "none"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2019"
         }
       ]
@@ -12709,7 +12709,7 @@
           "value": "none"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2019"
         }
       ]
@@ -12753,7 +12753,7 @@
           "value": "one"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2019"
         }
       ]
@@ -12797,7 +12797,7 @@
           "value": "white btc"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2019"
         }
       ]
@@ -12841,7 +12841,7 @@
           "value": "question"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2019"
         }
       ]
@@ -12885,7 +12885,7 @@
           "value": "zero"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2019"
         }
       ]
@@ -12929,7 +12929,7 @@
           "value": "cross necklase"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2019"
         }
       ]
@@ -12973,7 +12973,7 @@
           "value": "one"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2019"
         }
       ]
@@ -13017,7 +13017,7 @@
           "value": "zero"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2019"
         }
       ]
@@ -13061,7 +13061,7 @@
           "value": "check"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2019"
         }
       ]
@@ -13105,7 +13105,7 @@
           "value": "cross necklase"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2019"
         }
       ]
@@ -13149,7 +13149,7 @@
           "value": "orange btc"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2019"
         }
       ]
@@ -13193,7 +13193,7 @@
           "value": "one"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2019"
         }
       ]
@@ -13237,7 +13237,7 @@
           "value": "orange btc"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2021"
         }
       ]
@@ -13281,7 +13281,7 @@
           "value": "orange btc"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2021"
         }
       ]
@@ -13325,7 +13325,7 @@
           "value": "none"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2021"
         }
       ]
@@ -13369,7 +13369,7 @@
           "value": "none"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2021"
         }
       ]
@@ -13413,7 +13413,7 @@
           "value": "white btc"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2021"
         }
       ]
@@ -13457,7 +13457,7 @@
           "value": "white btc"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2021"
         }
       ]
@@ -13501,7 +13501,7 @@
           "value": "one"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2021"
         }
       ]
@@ -13545,7 +13545,7 @@
           "value": "one"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2021"
         }
       ]
@@ -13589,7 +13589,7 @@
           "value": "check"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2021"
         }
       ]
@@ -13633,7 +13633,7 @@
           "value": "cross necklase"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2021"
         }
       ]
@@ -13677,7 +13677,7 @@
           "value": "zero"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2021"
         }
       ]
@@ -13721,7 +13721,7 @@
           "value": "zero"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2015"
         }
       ]
@@ -13765,7 +13765,7 @@
           "value": "white btc"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2015"
         }
       ]
@@ -13809,7 +13809,7 @@
           "value": "white btc"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2015"
         }
       ]
@@ -13853,7 +13853,7 @@
           "value": "z"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2023"
         }
       ]
@@ -13897,7 +13897,7 @@
           "value": "flash logo"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2021"
         }
       ]
@@ -13941,7 +13941,7 @@
           "value": "none"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2011"
         }
       ]
@@ -13985,7 +13985,7 @@
           "value": "check"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2012"
         }
       ]
@@ -14029,7 +14029,7 @@
           "value": "cross necklase"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2012"
         }
       ]
@@ -14073,7 +14073,7 @@
           "value": "one"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2012"
         }
       ]
@@ -14117,7 +14117,7 @@
           "value": "cross necklase"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2012"
         }
       ]
@@ -14161,7 +14161,7 @@
           "value": "none"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2012"
         }
       ]
@@ -14205,7 +14205,7 @@
           "value": "pepe gm"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2012"
         }
       ]
@@ -14249,7 +14249,7 @@
           "value": "bitcoin"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2016"
         }
       ]
@@ -14293,7 +14293,7 @@
           "value": "none"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2016"
         }
       ]
@@ -14337,7 +14337,7 @@
           "value": "none"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2016"
         }
       ]
@@ -14381,7 +14381,7 @@
           "value": "white btc"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2012"
         }
       ]
@@ -14425,7 +14425,7 @@
           "value": "question"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2012"
         }
       ]
@@ -14469,7 +14469,7 @@
           "value": "f@#k eth"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2016"
         }
       ]
@@ -14513,7 +14513,7 @@
           "value": "one"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2012"
         }
       ]
@@ -14557,7 +14557,7 @@
           "value": "cross necklase"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2012"
         }
       ]
@@ -14601,7 +14601,7 @@
           "value": "orange btc"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2012"
         }
       ]
@@ -14645,7 +14645,7 @@
           "value": "check"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2012"
         }
       ]
@@ -14689,7 +14689,7 @@
           "value": "cross necklase"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2012"
         }
       ]
@@ -14733,7 +14733,7 @@
           "value": "rare sats"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2012"
         }
       ]
@@ -14777,7 +14777,7 @@
           "value": "none"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2012"
         }
       ]
@@ -14821,7 +14821,7 @@
           "value": "one"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2012"
         }
       ]
@@ -14865,7 +14865,7 @@
           "value": "orange btc"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2012"
         }
       ]
@@ -14909,7 +14909,7 @@
           "value": "question"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2012"
         }
       ]
@@ -14953,7 +14953,7 @@
           "value": "none"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2012"
         }
       ]
@@ -14997,7 +14997,7 @@
           "value": "question"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2012"
         }
       ]
@@ -15041,7 +15041,7 @@
           "value": "white btc"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2012"
         }
       ]
@@ -15085,7 +15085,7 @@
           "value": "none"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2012"
         }
       ]
@@ -15129,7 +15129,7 @@
           "value": "btc"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2012"
         }
       ]
@@ -15173,7 +15173,7 @@
           "value": "none"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2009"
         }
       ]
@@ -15217,7 +15217,7 @@
           "value": "zero"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2013"
         }
       ]
@@ -15261,7 +15261,7 @@
           "value": "zero"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2011"
         }
       ]
@@ -15305,7 +15305,7 @@
           "value": "white btc"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2011"
         }
       ]
@@ -15349,7 +15349,7 @@
           "value": "btcmachine logo"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2010"
         }
       ]
@@ -15393,7 +15393,7 @@
           "value": "one"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
           "value": "2022"
         }
       ]
@@ -15437,7 +15437,535 @@
           "value": "white btc"
         },
         {
-          "trait_type": "birth sat",
+          "trait_type": "year of sat",
+          "value": "2019"
+        }
+      ]
+    }
+  },
+  {
+    "id": "6aec1ce2a11057c6a793193db28371d301c3ba1b5be3959be3413e6683f80137i0",
+    "meta": {
+      "name": "Taruguito #352",
+      "attributes": [
+        {
+          "trait_type": "body",
+          "value": "sky blue"
+        },
+        {
+          "trait_type": "nose",
+          "value": "black"
+        },
+        {
+          "trait_type": "mouth",
+          "value": "smoking"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "3d goggles"
+        },
+        {
+          "trait_type": "head gear",
+          "value": "red earring"
+        },
+        {
+          "trait_type": "feet",
+          "value": "pink"
+        },
+        {
+          "trait_type": "hands",
+          "value": "meat"
+        },
+        {
+          "trait_type": "text",
+          "value": "white btc"
+        },
+        {
+          "trait_type": "year of sat",
+          "value": "2023"
+        }
+      ]
+    }
+  },
+  {
+    "id": "dc940d44642b9b98a5df8ddef1e829477eaaff07352e62868089f96ed92b0d98i0",
+    "meta": {
+      "name": "Taruguito #353",
+      "attributes": [
+        {
+          "trait_type": "body",
+          "value": "blood red"
+        },
+        {
+          "trait_type": "nose",
+          "value": "clown"
+        },
+        {
+          "trait_type": "mouth",
+          "value": "gold tooth"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "pink goggles"
+        },
+        {
+          "trait_type": "head gear",
+          "value": "gold earring"
+        },
+        {
+          "trait_type": "feet",
+          "value": "meat"
+        },
+        {
+          "trait_type": "hands",
+          "value": "meat"
+        },
+        {
+          "trait_type": "text",
+          "value": "question"
+        },
+        {
+          "trait_type": "year of sat",
+          "value": "2014"
+        }
+      ]
+    }
+  },
+  {
+    "id": "77ff532a7d895411abb8bb026310f4137b6ca9016c674628a1d9f40605d26b8ai0",
+    "meta": {
+      "name": "Taruguito #354",
+      "attributes": [
+        {
+          "trait_type": "body",
+          "value": "light blue"
+        },
+        {
+          "trait_type": "nose",
+          "value": "clown"
+        },
+        {
+          "trait_type": "mouth",
+          "value": "a tooth"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "3d goggles"
+        },
+        {
+          "trait_type": "head gear",
+          "value": "red headphones"
+        },
+        {
+          "trait_type": "feet",
+          "value": "pink"
+        },
+        {
+          "trait_type": "hands",
+          "value": "meat"
+        },
+        {
+          "trait_type": "text",
+          "value": "check"
+        },
+        {
+          "trait_type": "year of sat",
+          "value": "2018"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2f22b64130bb7b99010d30c65998371caec4c4ca3522eba1a65a800f4da2c65fi0",
+    "meta": {
+      "name": "Taruguito #355",
+      "attributes": [
+        {
+          "trait_type": "body",
+          "value": "blood red"
+        },
+        {
+          "trait_type": "nose",
+          "value": "black"
+        },
+        {
+          "trait_type": "mouth",
+          "value": "gold tooth"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "pink goggles"
+        },
+        {
+          "trait_type": "head gear",
+          "value": "blue cap"
+        },
+        {
+          "trait_type": "feet",
+          "value": "green"
+        },
+        {
+          "trait_type": "hands",
+          "value": "meat"
+        },
+        {
+          "trait_type": "text",
+          "value": "check"
+        },
+        {
+          "trait_type": "year of sat",
+          "value": "2013"
+        }
+      ]
+    }
+  },
+  {
+    "id": "4a98dc1418e9dd736c3a0a350563199aec1b4e6d302731388137e7d34d72558ei1",
+    "meta": {
+      "name": "Taruguito #356",
+      "attributes": [
+        {
+          "trait_type": "body",
+          "value": "blood red"
+        },
+        {
+          "trait_type": "nose",
+          "value": "clown"
+        },
+        {
+          "trait_type": "mouth",
+          "value": "two tooth"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "pink goggles"
+        },
+        {
+          "trait_type": "head gear",
+          "value": "wizard crown"
+        },
+        {
+          "trait_type": "feet",
+          "value": "orange"
+        },
+        {
+          "trait_type": "hands",
+          "value": "meat"
+        },
+        {
+          "trait_type": "text",
+          "value": "orange btc"
+        },
+        {
+          "trait_type": "year of sat",
+          "value": "2013"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1d10d5ed24324cdaed0ff729fbbbf0686a7c622a59a1f5aca4b7ffd1a122b5e2i0",
+    "meta": {
+      "name": "Taruguito #357",
+      "attributes": [
+        {
+          "trait_type": "body",
+          "value": "blue"
+        },
+        {
+          "trait_type": "nose",
+          "value": "black"
+        },
+        {
+          "trait_type": "mouth",
+          "value": "two tooth"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "look up"
+        },
+        {
+          "trait_type": "head gear",
+          "value": "orange cap"
+        },
+        {
+          "trait_type": "feet",
+          "value": "light blue"
+        },
+        {
+          "trait_type": "hands",
+          "value": "meat"
+        },
+        {
+          "trait_type": "text",
+          "value": "zero"
+        },
+        {
+          "trait_type": "year of sat",
+          "value": "2021"
+        }
+      ]
+    }
+  },
+  {
+    "id": "dffba6685ee46c897449f8d2b91b056155b61f74044545a7039a1700995aa0eei0",
+    "meta": {
+      "name": "Taruguito #358",
+      "attributes": [
+        {
+          "trait_type": "body",
+          "value": "sky blue"
+        },
+        {
+          "trait_type": "nose",
+          "value": "clown"
+        },
+        {
+          "trait_type": "mouth",
+          "value": "two tooth"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "vr blue"
+        },
+        {
+          "trait_type": "head gear",
+          "value": "karate"
+        },
+        {
+          "trait_type": "feet",
+          "value": "meat"
+        },
+        {
+          "trait_type": "hands",
+          "value": "meat"
+        },
+        {
+          "trait_type": "text",
+          "value": "white btc"
+        },
+        {
+          "trait_type": "year of sat",
+          "value": "2013"
+        }
+      ]
+    }
+  },
+  {
+    "id": "d5d6790984392fe5beba44554a764556fa195e30e0e17c1c98670af0845a35d7i1",
+    "meta": {
+      "name": "Taruguito #359",
+      "attributes": [
+        {
+          "trait_type": "body",
+          "value": "yellow"
+        },
+        {
+          "trait_type": "nose",
+          "value": "black"
+        },
+        {
+          "trait_type": "mouth",
+          "value": "tongue"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "yellow goggles"
+        },
+        {
+          "trait_type": "head gear",
+          "value": "crown"
+        },
+        {
+          "trait_type": "feet",
+          "value": "meat"
+        },
+        {
+          "trait_type": "hands",
+          "value": "meat"
+        },
+        {
+          "trait_type": "text",
+          "value": "cross necklase"
+        },
+        {
+          "trait_type": "year of sat",
+          "value": "2019"
+        }
+      ]
+    }
+  },
+  {
+    "id": "72f1286291d65f36a93a33f5e61bbc491b447f42a450ddd52d7d273e264f7892i0",
+    "meta": {
+      "name": "Taruguito #360",
+      "attributes": [
+        {
+          "trait_type": "body",
+          "value": "green"
+        },
+        {
+          "trait_type": "nose",
+          "value": "clown"
+        },
+        {
+          "trait_type": "mouth",
+          "value": "smoking"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "yellow goggles"
+        },
+        {
+          "trait_type": "head gear",
+          "value": "none"
+        },
+        {
+          "trait_type": "feet",
+          "value": "orange"
+        },
+        {
+          "trait_type": "hands",
+          "value": "meat"
+        },
+        {
+          "trait_type": "text",
+          "value": "white btc"
+        },
+        {
+          "trait_type": "year of sat",
+          "value": "2011"
+        }
+      ]
+    }
+  },
+  {
+    "id": "3a05613a2d945290977371010e594e7e078a2c22ca71e750c26cf4f5514a92eai0",
+    "meta": {
+      "name": "Taruguito #361",
+      "attributes": [
+        {
+          "trait_type": "body",
+          "value": "violet"
+        },
+        {
+          "trait_type": "nose",
+          "value": "clown"
+        },
+        {
+          "trait_type": "mouth",
+          "value": "two tooth"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "pink goggles"
+        },
+        {
+          "trait_type": "head gear",
+          "value": "red headphones"
+        },
+        {
+          "trait_type": "feet",
+          "value": "light blue"
+        },
+        {
+          "trait_type": "hands",
+          "value": "meat"
+        },
+        {
+          "trait_type": "text",
+          "value": "cross necklase"
+        },
+        {
+          "trait_type": "year of sat",
+          "value": "2012"
+        }
+      ]
+    }
+  },
+  {
+    "id": "00d2a602af4261d24002770272e12fb92ac0839f1fb062bbf02c66fb67538c1ai1",
+    "meta": {
+      "name": "Taruguito #362",
+      "attributes": [
+        {
+          "trait_type": "body",
+          "value": "rainbow"
+        },
+        {
+          "trait_type": "nose",
+          "value": "black"
+        },
+        {
+          "trait_type": "mouth",
+          "value": "two tooth"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "pink goggles"
+        },
+        {
+          "trait_type": "head gear",
+          "value": "gold earring"
+        },
+        {
+          "trait_type": "feet",
+          "value": "green"
+        },
+        {
+          "trait_type": "hands",
+          "value": "meat"
+        },
+        {
+          "trait_type": "text",
+          "value": "check"
+        },
+        {
+          "trait_type": "year of sat",
+          "value": "2017"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c36ee061b156f26fcfd3b7c6ce93673e435a5660298edffaeb1d30c44e69c1ebi0",
+    "meta": {
+      "name": "Taruguito #363",
+      "attributes": [
+        {
+          "trait_type": "body",
+          "value": "rainbow"
+        },
+        {
+          "trait_type": "nose",
+          "value": "clown"
+        },
+        {
+          "trait_type": "mouth",
+          "value": "smoking"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "yellow goggles"
+        },
+        {
+          "trait_type": "head gear",
+          "value": "crown"
+        },
+        {
+          "trait_type": "feet",
+          "value": "pink"
+        },
+        {
+          "trait_type": "hands",
+          "value": "meat"
+        },
+        {
+          "trait_type": "text",
+          "value": "one"
+        },
+        {
+          "trait_type": "year of sat",
           "value": "2019"
         }
       ]
