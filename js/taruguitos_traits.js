@@ -1,12 +1,12 @@
 function createTbodySensores(items) {
-    var table = document.getElementById("table_sensores");
+    var table = document.getElementById("table_traits");
 
     // Eliminar el Tbody con los objetos que contenga
-    var tbody = document.getElementById("tbody_sensores");
+    var tbody = document.getElementById("tbody_traits");
     table.removeChild(tbody);
     // Crea un nuevo Tbody 
-    const tbody_sensores = document.createElement("tbody");
-    tbody_sensores.id = "tbody_sensores";
+    const tbody_traits = document.createElement("tbody");
+    tbody_traits.id = "tbody_traits";
     // Agrega las filas dependiendo el número de items
     for (let i = 0; i < items; i++) {
         var tr = document.createElement('tr');
@@ -22,9 +22,9 @@ function createTbodySensores(items) {
         tr.appendChild(td_name);
         tr.appendChild(td_value);
 
-        tbody_sensores.appendChild(tr);
+        tbody_traits.appendChild(tr);
     }
-    table.appendChild(tbody_sensores);
+    table.appendChild(tbody_traits);
 }
 
 
