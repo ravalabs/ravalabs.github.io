@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Widgets</title>
+        <script type="text/javascript" src="get_traits.js"></script>
+    </head>
+    <body>
+        <h1>Sensores</h1>
+        <table id="table_sensores">
+            <thead id="thead_sensores">
+                <th>ID</th>
+                <th>Name</th>
+                <th>Value</th>
+            </thead>
+            <tbody id="tbody_sensores">
+                <!-- Se agregarán una fila por cada item en el archivo json -->
+            </tbody>
+        </table>
+
+        <script>
+            document.onload = getSensores();
+        </script>
+    </body>
+</html>

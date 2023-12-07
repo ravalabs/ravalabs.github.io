@@ -1,0 +1,25 @@
+{
+        "humedad": {
+            "sensores": [
+                {
+                    "id": 1,
+                    "name": "Temperatura 1",
+                    "value": 10
+                }
+            ],
+            "sensores2": [
+                {
+                    "id": 2,
+                    "name": "Temperatura 2",
+                    "value": 10
+                }
+            ],
+            "sensores3": [
+                {
+                    "id": 3,
+                    "name": "Temperatura 3",
+                    "value": 10
+                }
+            ]
+        }
+     }
