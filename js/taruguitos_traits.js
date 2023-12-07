@@ -40,7 +40,7 @@ window.setInterval(async function getAttributes() {
     const data = await getData(url);
 
     // Attributes toma los datos del objeto attributes
-    let attributes = data["humedad"];
+    let attributes = data["meta"];
     
     // Se obtiene el numero de elementos
     let items = Object.keys(attributes).length
