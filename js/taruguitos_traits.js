@@ -36,7 +36,7 @@ async function getData(url) {
 
 window.setInterval(async function getSensores() {
     // Establece la ruta del archivo JSON
-    const url = "datos.json";
+    const url = "../datos/datos.json";
     const data = await getData(url);
 
     // Sensores toma los datos del objeto sensores
