@@ -15970,5 +15970,49 @@
         }
       ]
     }
+  },
+  {
+    "id": "d5d6790984392fe5beba44554a764556fa195e30e0e17c1c98670af0845a35d7i0",
+    "meta": {
+      "name": "Taruguito #364",
+      "attributes": [
+        {
+          "trait_type": "body",
+          "value": "yellow"
+        },
+        {
+          "trait_type": "nose",
+          "value": "clown"
+        },
+        {
+          "trait_type": "mouth",
+          "value": "two tooth"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "3d goggles"
+        },
+        {
+          "trait_type": "head gear",
+          "value": "crown"
+        },
+        {
+          "trait_type": "feet",
+          "value": "orange"
+        },
+        {
+          "trait_type": "hands",
+          "value": "meat"
+        },
+        {
+          "trait_type": "text",
+          "value": "orange btc"
+        },
+        {
+          "trait_type": "year of sat",
+          "value": "2019"
+        }
+      ]
+    }
   }
 ]
