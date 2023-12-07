@@ -1,5 +1,6 @@
 {
         "meta": {
+            "name": "Taruguito #1",
             "attributes": [
         {
           "trait_type": "body",
@@ -37,20 +38,6 @@
           "trait_type": "year of sat",
           "value": "2011"
         }
-            ],
-            "attributes2": [
-                {
-                    "id": 2,
-                    "name": "Temperatura 2",
-                    "value": 10
-                }
-            ],
-            "attributes3": [
-                {
-                    "id": 3,
-                    "name": "Temperatura 3",
-                    "value": 10
-                }
             ]
         }
      }
