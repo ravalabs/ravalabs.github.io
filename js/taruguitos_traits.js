@@ -1,4 +1,4 @@
-function createTbodySensores(items) {
+function createTbodyAttributes(items) {
     var table = document.getElementById("table_traits");
 
     // Eliminar el Tbody con los objetos que contenga
@@ -34,32 +34,32 @@ async function getData(url) {
     return response.json();
 }
 
-window.setInterval(async function getSensores() {
+window.setInterval(async function getAttributes() {
     // Establece la ruta del archivo JSON
     const url = "../datos/datos.json";
     const data = await getData(url);
 
-    // Sensores toma los datos del objeto sensores
-    let sensores = data["humedad"];
+    // Attributes toma los datos del objeto attributes
+    let attributes = data["humedad"];
     
     // Se obtiene el numero de elementos
-    let items = Object.keys(sensores).length
+    let items = Object.keys(attributes).length
 
     // Se crea un Tbody con el numero de filas
-    createTbodySensores(items);
+    createTbodyAttributes(items);
 
     // establecemos un contador para el siguiente bucle
     contador = 0
 
     // recorremos las propiedades del objeto 
-    for (let key in sensores) {
+    for (let key in attributes) {
       var td_id = document.getElementById('sensor_id' + contador);
       var td_name = document.getElementById('sensor_name' + contador);
       var td_value = document.getElementById('sensor_value' + contador);
 
-      td_id.innerHTML = sensores[key][0].id;
-      td_name.innerHTML = sensores[key][0].name;
-      td_value.innerHTML = sensores[key][0].value;
+      td_id.innerHTML = attributes[key][0].id;
+      td_name.innerHTML = attributes[key][0].name;
+      td_value.innerHTML = attributes[key][0].value;
       contador++
     }
 }, 1000);
