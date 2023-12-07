@@ -11,15 +11,15 @@ function createTbodyAttributes(items) {
     for (let i = 0; i < items; i++) {
         var tr = document.createElement('tr');
         var td_id = document.createElement('td');
-        var td_name = document.createElement('td');
+        var td_trait_type = document.createElement('td');
         var td_value = document.createElement('td');
 
-        td_id.id = "sensor_id" + i;
-        td_name.id = "sensor_name" + i;
-        td_value.id = "sensor_value" + i
+        td_id.id = "attribute_id" + i;
+        td_trait_type.id = "attribute_trait_type" + i;
+        td_value.id = "attribute_value" + i
 
         tr.appendChild(td_id);
-        tr.appendChild(td_name);
+        tr.appendChild(td_trait_type);
         tr.appendChild(td_value);
 
         tbody_traits.appendChild(tr);
@@ -53,12 +53,12 @@ window.setInterval(async function getAttributes() {
 
     // recorremos las propiedades del objeto 
     for (let key in attributes) {
-      var td_id = document.getElementById('sensor_id' + contador);
-      var td_name = document.getElementById('sensor_name' + contador);
-      var td_value = document.getElementById('sensor_value' + contador);
+      var td_id = document.getElementById('attribute_id' + contador);
+      var td_trait_type = document.getElementById('attribute_trait_type' + contador);
+      var td_value = document.getElementById('attribute_value' + contador);
 
       td_id.innerHTML = attributes[key][0].id;
-      td_name.innerHTML = attributes[key][0].name;
+      td_trait_type.innerHTML = attributes[key][0].trait_type;
       td_value.innerHTML = attributes[key][0].value;
       contador++
     }
