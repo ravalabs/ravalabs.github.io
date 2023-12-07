@@ -15884,7 +15884,7 @@
     }
   },
   {
-    "id": "00d2a602af4261d24002770272e12fb92ac0839f1fb062bbf02c66fb67538c1ai1",
+    "id": "00d2a602af4261d24002770272e12fb92ac0839f1fb062bbf02c66fb67538c1ai0",
     "meta": {
       "name": "Taruguito #362",
       "attributes": [
@@ -16011,6 +16011,50 @@
         {
           "trait_type": "year of sat",
           "value": "2019"
+        }
+      ]
+    }
+  },
+  {
+    "id": "6c571a186a1558880641caaa77c60784808e2be8e5db38c1f2cdc627e9607cc7i0",
+    "meta": {
+      "name": "Taruguito #365",
+      "attributes": [
+        {
+          "trait_type": "body",
+          "value": "blood red"
+        },
+        {
+          "trait_type": "nose",
+          "value": "clown"
+        },
+        {
+          "trait_type": "mouth",
+          "value": "tongue"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "3d goggles"
+        },
+        {
+          "trait_type": "head gear",
+          "value": "crown"
+        },
+        {
+          "trait_type": "feet",
+          "value": "light blue"
+        },
+        {
+          "trait_type": "hands",
+          "value": "meat"
+        },
+        {
+          "trait_type": "text",
+          "value": "cross necklase"
+        },
+        {
+          "trait_type": "year of sat",
+          "value": "2015"
         }
       ]
     }
