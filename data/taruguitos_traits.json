@@ -15620,7 +15620,7 @@
     }
   },
   {
-    "id": "4a98dc1418e9dd736c3a0a350563199aec1b4e6d302731388137e7d34d72558ei1",
+    "id": "4a98dc1418e9dd736c3a0a350563199aec1b4e6d302731388137e7d34d72558ei0",
     "meta": {
       "name": "Taruguito #356",
       "attributes": [
@@ -15752,7 +15752,7 @@
     }
   },
   {
-    "id": "d5d6790984392fe5beba44554a764556fa195e30e0e17c1c98670af0845a35d7i1",
+    "id": "b6e8d9e4f206ac922b2fcb870e893be911fd1d98efd57305052c681729c311a8i0",
     "meta": {
       "name": "Taruguito #359",
       "attributes": [
@@ -15790,7 +15790,7 @@
         },
         {
           "trait_type": "year of sat",
-          "value": "2019"
+          "value": "2016"
         }
       ]
     }
@@ -16058,5 +16058,489 @@
         }
       ]
     }
+  },
+  {
+    "id": "6657d2f98ab6a4317b2793d1f0edb79631f9e1e2e1cdb690132ca11f24ceff81i0",
+    "meta": {
+      "name": "Taruguito #366",
+      "attributes": [
+        {
+          "trait_type": "body",
+          "value": "lime"
+        },
+        {
+          "trait_type": "nose",
+          "value": "clown"
+        },
+        {
+          "trait_type": "mouth",
+          "value": "gold tooth"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "blue goggles"
+        },
+        {
+          "trait_type": "head gear",
+          "value": "red headphones"
+        },
+        {
+          "trait_type": "feet",
+          "value": "meat"
+        },
+        {
+          "trait_type": "hands",
+          "value": "meat"
+        },
+        {
+          "trait_type": "text",
+          "value": "zero"
+        },
+        {
+          "trait_type": "year of sat",
+          "value": "2018"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b66ef40eb2b06c7ecc7c9adb79e91e7c23e284663d2345db6ce6e2b4096eacb0i0",
+    "meta": {
+      "name": "Taruguito #367",
+      "attributes": [
+        {
+          "trait_type": "body",
+          "value": "light blue"
+        },
+        {
+          "trait_type": "nose",
+          "value": "clown"
+        },
+        {
+          "trait_type": "mouth",
+          "value": "a tooth"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "blue goggles"
+        },
+        {
+          "trait_type": "head gear",
+          "value": "crown"
+        },
+        {
+          "trait_type": "feet",
+          "value": "green"
+        },
+        {
+          "trait_type": "hands",
+          "value": "meat"
+        },
+        {
+          "trait_type": "text",
+          "value": "orange btc"
+        },
+        {
+          "trait_type": "year of sat",
+          "value": "2015"
+        }
+      ]
+    }
+  },
+  {
+    "id": "4f61f9990a22292ebaa0261b1bd2624f2e770af60f6ddca773520a956db2d0f6i0",
+    "meta": {
+      "name": "Taruguito #368",
+      "attributes": [
+        {
+          "trait_type": "body",
+          "value": "navy blue"
+        },
+        {
+          "trait_type": "nose",
+          "value": "clown"
+        },
+        {
+          "trait_type": "mouth",
+          "value": "two tooth"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "yellow goggles"
+        },
+        {
+          "trait_type": "head gear",
+          "value": "crown"
+        },
+        {
+          "trait_type": "feet",
+          "value": "pink"
+        },
+        {
+          "trait_type": "hands",
+          "value": "meat"
+        },
+        {
+          "trait_type": "text",
+          "value": "orange btc"
+        },
+        {
+          "trait_type": "year of sat",
+          "value": "2015"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b25385c7ef2d7b7db998a44dee1746fdace4aa20efd763fad92e6f39e463dfc6i0",
+    "meta": {
+      "name": "Taruguito #369",
+      "attributes": [
+        {
+          "trait_type": "body",
+          "value": "light green"
+        },
+        {
+          "trait_type": "nose",
+          "value": "black"
+        },
+        {
+          "trait_type": "mouth",
+          "value": "smoking"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "3d goggles"
+        },
+        {
+          "trait_type": "head gear",
+          "value": "blue cap"
+        },
+        {
+          "trait_type": "feet",
+          "value": "green"
+        },
+        {
+          "trait_type": "hands",
+          "value": "meat"
+        },
+        {
+          "trait_type": "text",
+          "value": "cross necklase"
+        },
+        {
+          "trait_type": "year of sat",
+          "value": "2015"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cc16ddfeb2be0bafc25c654931768a819a1beb9f79d78815c2bf5522044be0cdi0",
+    "meta": {
+      "name": "Taruguito #370",
+      "attributes": [
+        {
+          "trait_type": "body",
+          "value": "yellow"
+        },
+        {
+          "trait_type": "nose",
+          "value": "black"
+        },
+        {
+          "trait_type": "mouth",
+          "value": "smoking"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "pink goggles"
+        },
+        {
+          "trait_type": "head gear",
+          "value": "crown"
+        },
+        {
+          "trait_type": "feet",
+          "value": "pink"
+        },
+        {
+          "trait_type": "hands",
+          "value": "meat"
+        },
+        {
+          "trait_type": "text",
+          "value": "cross necklase"
+        },
+        {
+          "trait_type": "year of sat",
+          "value": "2015"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e555915f8e207092a442fdfd5ad7d04780895319cb5a4c72659e88b0b6e580eci0",
+    "meta": {
+      "name": "Taruguito #371",
+      "attributes": [
+        {
+          "trait_type": "body",
+          "value": "light green"
+        },
+        {
+          "trait_type": "nose",
+          "value": "clown"
+        },
+        {
+          "trait_type": "mouth",
+          "value": "smoking"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "3d goggles"
+        },
+        {
+          "trait_type": "head gear",
+          "value": "karate"
+        },
+        {
+          "trait_type": "feet",
+          "value": "pink"
+        },
+        {
+          "trait_type": "hands",
+          "value": "meat"
+        },
+        {
+          "trait_type": "text",
+          "value": "white btc"
+        },
+        {
+          "trait_type": "year of sat",
+          "value": "2015"
+        }
+      ]
+    }
+  },
+  {
+    "id": "4214db3b31be8afe3f4c7e657d68cd4b16e8f7818b0318334fdd1fb8d75e66f2i0",
+    "meta": {
+      "name": "Taruguito #372",
+      "attributes": [
+        {
+          "trait_type": "body",
+          "value": "yellow"
+        },
+        {
+          "trait_type": "nose",
+          "value": "clown"
+        },
+        {
+          "trait_type": "mouth",
+          "value": "smoking"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "look left"
+        },
+        {
+          "trait_type": "head gear",
+          "value": "crown"
+        },
+        {
+          "trait_type": "feet",
+          "value": "orange"
+        },
+        {
+          "trait_type": "hands",
+          "value": "meat"
+        },
+        {
+          "trait_type": "text",
+          "value": "one"
+        },
+        {
+          "trait_type": "year of sat",
+          "value": "2015"
+        }
+      ]
+    }
+  },
+  {
+    "id": "496895549df9dee19c1a7767853b03eb675133df58df106d19b3a926050ae138i0",
+    "meta": {
+      "name": "Taruguito #373",
+      "attributes": [
+        {
+          "trait_type": "body",
+          "value": "yellow"
+        },
+        {
+          "trait_type": "nose",
+          "value": "clown"
+        },
+        {
+          "trait_type": "mouth",
+          "value": "a tooth"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "mask"
+        },
+        {
+          "trait_type": "head gear",
+          "value": "crown"
+        },
+        {
+          "trait_type": "feet",
+          "value": "green"
+        },
+        {
+          "trait_type": "hands",
+          "value": "meat"
+        },
+        {
+          "trait_type": "text",
+          "value": "check"
+        },
+        {
+          "trait_type": "year of sat",
+          "value": "2015"
+        }
+      ]
+    }
+  },
+  {
+    "id": "d902e74eb2a139c3a4fc186344857ff73d46e34897eb8a92fb8b30bd59848e08i0",
+    "meta": {
+      "name": "Taruguito #374",
+      "attributes": [
+        {
+          "trait_type": "body",
+          "value": "yellow"
+        },
+        {
+          "trait_type": "nose",
+          "value": "black"
+        },
+        {
+          "trait_type": "mouth",
+          "value": "deep smile"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "pink goggles"
+        },
+        {
+          "trait_type": "head gear",
+          "value": "crown"
+        },
+        {
+          "trait_type": "feet",
+          "value": "orange"
+        },
+        {
+          "trait_type": "hands",
+          "value": "meat"
+        },
+        {
+          "trait_type": "text",
+          "value": "zero"
+        },
+        {
+          "trait_type": "year of sat",
+          "value": "2015"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b25385c7ef2d7b7db998a44dee1746fdace4aa20efd763fad92e6f39e463dfc6i0",
+    "meta": {
+      "name": "Taruguito #375",
+      "attributes": [
+        {
+          "trait_type": "body",
+          "value": "light green"
+        },
+        {
+          "trait_type": "nose",
+          "value": "black"
+        },
+        {
+          "trait_type": "mouth",
+          "value": "smoking"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "3d goggles"
+        },
+        {
+          "trait_type": "head gear",
+          "value": "blue cap"
+        },
+        {
+          "trait_type": "feet",
+          "value": "green"
+        },
+        {
+          "trait_type": "hands",
+          "value": "meat"
+        },
+        {
+          "trait_type": "text",
+          "value": "cross necklase"
+        },
+        {
+          "trait_type": "year of sat",
+          "value": "2015"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a744f7c201fdf5feb351fd011c0bbb1da08b91b8b351dac4730c69231f25533di0",
+    "meta": {
+      "name": "Taruguito #376",
+      "attributes": [
+        {
+          "trait_type": "body",
+          "value": "meat"
+        },
+        {
+          "trait_type": "nose",
+          "value": "clown"
+        },
+        {
+          "trait_type": "mouth",
+          "value": "gold tooth"
+        },
+        {
+          "trait_type": "eyes",
+          "value": "pink goggles"
+        },
+        {
+          "trait_type": "head gear",
+          "value": "blue cap"
+        },
+        {
+          "trait_type": "feet",
+          "value": "pink"
+        },
+        {
+          "trait_type": "hands",
+          "value": "meat"
+        },
+        {
+          "trait_type": "text",
+          "value": "cross necklase"
+        },
+        {
+          "trait_type": "year of sat",
+          "value": "2010"
+        }
+      ]
+    }
   }
-]
+] 
