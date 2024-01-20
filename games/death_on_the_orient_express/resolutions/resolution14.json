@@ -4,5 +4,5 @@
 "Message": "Inside you find the riddle cards L and V, which you can now take from the deck and examine. Now you have every reason to enter Marie Louise Chauvelin's compartment!",
 "Card L": "inscription_id L",
 "Card V": "inscription_id V",
-"Gate III/1": "inscription_id"
+"Gate III.1": "inscription_id"
 }
