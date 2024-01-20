@@ -4,4 +4,5 @@
 "Message": "Inside you find the riddle card Q. You can now take this card from the deck and examine it. After carefully inspecting the behavior of Signore Francesco Giuliani, you find behind the door the top of a table that must be from another compartment. You can now take this curious piece from the box",
 "Element 1": "inscription_id Q",
 "Element 2": "inscription_id curious piece"
+"Element 3": "false"
 }
