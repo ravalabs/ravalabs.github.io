@@ -2,8 +2,8 @@
 "Resolution id": "17",
 "Resolution": "You have opened Mrs. Virtanen's hatbox",
 "Message": "Inside were hidden the puzzle cards F, K and N. You can now take these cards from the deck and examine them. It seems that the time has come to pay Mr. Johansson a visit... You can now open the door to compartment 3 in carriage IV",
-"Element 1": "inscription_id F",
-"Element 2": "inscription_id K",
-"Element 3": "inscription_id N",
-"Element 4": "inscription_id Mr. Johansson"
+"Card F": "inscription_id F",
+"Card K": "inscription_id K",
+"Card N": "inscription_id N",
+"Gate IV/3": "inscription_id Mr. Johansson"
 }

@@ -2,8 +2,7 @@
 "Resolution id": "14",
 "Resolution": "You opened the small wooden box that was in Mr. Johansson's luggage rack.",
 "Message": "Inside you find the riddle cards L and V, which you can now take from the deck and examine. Now you have every reason to enter Marie Louise Chauvelin's compartment!",
-"Element 1": "inscription_id L",
-"Element 2": "inscription_id V",
-"Element 3": "inscription_id Marie Louise Chauvelin",
-"Element 4": "false"
+"Card L": "inscription_id L",
+"Card V": "inscription_id V",
+"Gate III/1": "inscription_id"
 }

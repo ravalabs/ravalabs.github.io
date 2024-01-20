@@ -2,8 +2,5 @@
 "Resolution id": "12",
 "Resolution": "You have finally managed to open the door to the radio room with this code",
 "Message": "Inside you discover the radio device on the riddle card S, which you can now take from the deck. Surely now you can check each passenger's alibi. Which one of them has lied and doesn't have a valid alibi?",
-"Element 1": "inscription_id S",
-"Element 2": "false",
-"Element 3": "false",
-"Element 4": "false"
+"Card S": "inscription_id"
 }
