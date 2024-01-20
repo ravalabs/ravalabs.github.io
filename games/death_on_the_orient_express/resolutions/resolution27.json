@@ -1,9 +1,9 @@
 {
-"Resolution id": "27",
+"Resolution id": 27,
 "Resolution": "You have opened the pill box",
 "Message": "Inside the pillbox you find the cards D, I and W. You can now take these cards from the deck and examine them. And then all that remains is to thoroughly examine the compartment of the last suspect you are missing: Colonel Meyer. You can now open the door to compartment 2 on carriage IV",
 "Card D": "inscription_id",
 "Card I": "inscription_id",
 "Card W": "inscription_id",
-"Gate IV.2": "inscription_id"
+"Compartment IV.2": "inscription_id"
 }

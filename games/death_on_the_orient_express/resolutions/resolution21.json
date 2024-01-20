@@ -1,8 +1,8 @@
 {
-"Resolution id": "21",
+"Resolution id": 21,
 "Resolution": "You finally managed to open the makeup case",
 "Message": "Who would have imagined it? It turns out that Countess Margaret Wojcik left the puzzle cards E and T inside the case. You can now take these cards from the deck and examine them. So, it seems that the next on the list is going to be Signore Francesco Giuliani. You can now open the door to compartment 2 in carriage V",
 "Card E": "inscription_id",
 "Card T": "inscription_id T",
-"Gate V.2": "inscription_id"
+"Compartment V.2": "inscription_id"
 }

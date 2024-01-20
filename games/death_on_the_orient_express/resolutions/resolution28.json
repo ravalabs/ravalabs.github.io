@@ -1,7 +1,7 @@
 {
-"Resolution id": "28",
+"Resolution id": 28,
 "Resolution": "You have opened the suitcase",
 "Message": "Unfortunately it's empty! You were hoping to find some incriminating evidence inside, but you only found the riddle card R. You can now take this card and examine it. Is it possible that Colum McKenzie was lying? Well, you'll have to look somewhere else. How about in Countess Wojcik's compartment? You can now open the door to compartment 2 on carriage VI",
 "Card R": "inscription_id",
-"Gate VI.2": "inscription_id"
+"Compartment VI.2": "inscription_id"
 }
