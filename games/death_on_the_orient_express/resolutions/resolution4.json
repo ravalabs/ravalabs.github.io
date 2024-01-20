@@ -4,5 +4,6 @@
 "Message": "Inside you will find the puzzle cards A and U. You can now take these cards from the deck and examine them",
 "Element 1": "inscription_id A",
 "Element 2": "inscription_id U",
-"Element 3": "inscription_id U"
+"Element 3": "false",
+"Element 4": "false"
 }
