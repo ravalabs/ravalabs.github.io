@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Countess Margaret Wojcik card</title>
+    <style>
+      body {
+        background: #f2dec2;
+        margin: 0;
+      }
+
+      .flip-card {
+        background-color: transparent;
+        width: 512px;
+        height: 512px;
+        border: 0px;
+        perspective: 1000px;
+        /* Remove this if you don't want the 3D effect */
+      }
+
+      .flip-card-inner {
+        position: relative;
+        width: 100%;
+        height: 100%;
+        text-align: center;
+        transition: transform 0.8s;
+        transform-style: preserve-3d;
+      }
+
+      .flip-card:hover .flip-card-inner {
+        transform: rotateY(180deg);
+      }
+
+      .flip-card-front,
+      .flip-card-back {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        -webkit-backface-visibility: hidden;
+        /* Safari */
+        backface-visibility: hidden;
+      }
+
+      .flip-card-front {
+        background-color: #c4a580;
+        color: black;
+      }
+
+      .flip-card-back {
+        background-color: #c4a580;
+        color: black;
+        transform: rotateY(180deg);
+      }
+    </style>
+  </head>
+  <body>
+    <div class="flip-card">
+      <div class="flip-card-inner">
+        <div class="flip-card-front">
+          <img src="portrait4.webp" style="width:100%;height:100%;">
+        </div>
+        <div class="flip-card-back">
+          <h1>Countess Margaret Wojcik</h1>
+          <p>
+            <strong>Compartment</strong>
+          </p>
+          <p>VI.2</p>
+          <p>
+            <strong>Alibi at the time of the crime</strong>
+          </p>
+          <p>She was in the smoking compartment playing poker with two gentlemen</p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
